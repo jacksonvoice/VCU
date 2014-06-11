@@ -1,0 +1,1 @@
+vids = new Meteor.Collection('vids');
